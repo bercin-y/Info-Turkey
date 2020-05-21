@@ -1,9 +1,9 @@
-**OVERVIEW OF TURKEY**
+# OVERVIEW OF TURKEY
 
 Turkey has a unique location due to combining two continents: Europe and Asia. Also, it is located on the Anatolian Peninsula, has three seas around: The Black Sea, Mediterranean Sea and the Aegean Sea. Turkey has been a strategically important country throughout its history and today’s world due to its geographical location. Anatolia is one of the oldest permanently settled regions in the world. At various points in its history, the region has been inhabited by diverse civilizations including the Anatolian peoples, Assyrians, Greeks, Urartian, Armenians. 
 Since a lot of diverse civilizations have been inhabited in Anatolia, Turkey has a very diverse culture. The influence of Turks and their culture have been originally begun as a result of their migration from Central Asia to the Anatolia. Turkish culture is mixing modern Western states with traditional religious and historical values. 
 
-**THE HISTORY OF ANATOLIA** 
+## THE HISTORY OF ANATOLIA 
 
 Two of the Seven Wonders of the Ancient World: The Temple of Artemis and The Mausoleum at Halicarnassus were located in present-day Turkey; however, they have not stayed until the present. 
 Istanbul (Constantinople), which is the only city in the world that connects two continents, has been the capital city for many civilizations from its history. It has a long history that witnesses the rise and fall of the world’s most famous empires; Byzantium, The Roman Empire (330–395), The Byzantine (Eastern Roman) Empire (395–1204 and 1261–1453), The Latin Empire (1204–1261), The Ottoman Empire (1453–1922), The Republic of Turkey (1923–Present). The Grand Bazaar in Istanbul is one of the oldest and biggest malls in the world.
