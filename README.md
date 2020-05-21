@@ -15,7 +15,7 @@ Other examples of the important historical places are Gobekli Tepe and Catalhoyu
 **TOURISTIC PLACEMENTS IN TURKEY**
 
 Amazing natural beauties, breathtaking beaches, historical and archaeological sites are the main reason people go to Turkey. Moreover, steadily improving hotel and tourism infrastructure, and a tradition of hospitality and competitive prices are the other reason to choose Turkey for their vacation destination. Therefore, it is not surprising that Turkey is the sixth most-visited tourist destination in the World. 
-Also, there are 13 spots in Turkey entered in UNESCO’s list of World Heritage Sites, they range from a Mesolithic temple (Gobekli Tepe) to a Biblical city (Ephesus) to a World War One battlefield (Gallipoli). In Turkey, you will experience an incredible diversity of nature, culture, history, beliefs, and ideas.
+Also, there are 13 spots in Turkey entered in UNESCO’s list of World Heritage Sites, they range from a Mesolithic temple (*Gobekli Tepe*) to a Biblical city (*Ephesus*) to a World War One battlefield (*Gallipoli*). In Turkey, you will experience an incredible diversity of nature, culture, history, beliefs, and ideas.
 
 ![Imagedescription](https://github.com/bercin-y/Info_Turkey/blob/master/Touristic%20Placements%20in%20Turkey.PNG)
 
