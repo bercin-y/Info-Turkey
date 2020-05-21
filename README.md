@@ -9,7 +9,7 @@ Two of the Seven Wonders of the Ancient World: The Temple of Artemis and The Mau
 Istanbul (Constantinople), which is the only city in the world that connects two continents, has been the capital city for many civilizations from its history. It has a long history that witnesses the rise and fall of the world’s most famous empires; Byzantium, The Roman Empire (330–395), The Byzantine (Eastern Roman) Empire (395–1204 and 1261–1453), The Latin Empire (1204–1261), The Ottoman Empire (1453–1922), The Republic of Turkey (1923–Present). The Grand Bazaar in Istanbul is one of the oldest and biggest malls in the world.
 Other examples of the important historical places are *Gobekli Tepe* and *Catalhoyuk*. *Gobekli Tepe* is the site of the oldest known man-made religious structure, while *Catalhoyuk* is the largest and best-preserved Neolithic Age and continued into the Iron Age.
 
-![Imagedescription](https://github.com/bercin-y/Info_Turkey/blob/master/The%20History%20of%20Anatolia.PNG)
+![Imagedescription](https://github.com/bercin-y/Info_Turkey/raw/master/The%20History%20of%20Anatolia.PNG)
 
 
 **TOURISTIC PLACEMENTS IN TURKEY**
