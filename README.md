@@ -31,4 +31,12 @@ Turkish breakfast and coffee are also another famous flavours. Of course, not to
 
 ### TOP-RATED TOURIST ATTRACTIONS IN TURKEY
 #### 1. ISTANBUL
+I would recommend you to do sightseeing to appreciate the historical and geographical treasures of Istanbul. There are natural wonders, mosques, churches, palaces, cemeteries, bazaars (spice and covered), steam baths (hamam) and coffeehouses (kahve ocagi) to visit. These will be memorable experiences.
 [link to Google!](https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm)
+
+#### 2. IZMIR
+
+#### 3. KAPADOKYA
+
+#### 4. PAMUKKALE
+
