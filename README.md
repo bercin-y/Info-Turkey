@@ -14,7 +14,7 @@ Other examples of the important historical places are *Gobekli Tepe* and *Catalh
 ![Imagedecription](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/The%20History%20of%20Anatolia.PNG)
 
 ![Imagedescription](/https://github.com/bercin-y/Info_Turkey/raw/master/The%20History%20of%20Anatolia.PNG)
-Format: ![Alt Text](url)
+
 
 
 **TOURISTIC PLACEMENTS IN TURKEY**
