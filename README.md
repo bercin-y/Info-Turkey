@@ -30,6 +30,4 @@ Turkish breakfast and coffee are also another famous flavours. Of course, not to
 
 
 ### TOP-RATED TOURIST ATTRACTIONS IN TURKEY
-http://github.com - automatic!
 https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm
-[GitHub](http://github.com)
