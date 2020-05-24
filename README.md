@@ -14,14 +14,14 @@ Other examples of the important historical places are *Gobekli Tepe* and *Catalh
 ![Imagedecription](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/The%20History%20of%20Anatolia.PNG)
 
 
-### TOURISTIC PLACEMENTS IN TURKEY
+## TOURISTIC PLACEMENTS IN TURKEY
 
 Amazing natural beauties, breathtaking beaches, historical and archaeological sites are the main reason people go to Turkey. Moreover, steadily improving hotel and tourism infrastructure, and a tradition of hospitality and competitive prices are the other reason to choose Turkey for their vacation destination. Therefore, it is not surprising that Turkey is the sixth most-visited tourist destination in the World. 
 Also, there are 13 spots in Turkey entered in UNESCO’s list of World Heritage Sites, they range from a Mesolithic temple (*Gobekli Tepe*) to a Biblical city (*Ephesus*) to a World War One battlefield (*Gallipoli*). In Turkey, you will experience an incredible diversity of nature, culture, history, beliefs, and ideas.
 
 ![Imagedescription](https://github.com/bercin-y/Info_Turkey/raw/master/Touristic%20Placements%20in%20Turkey.PNG)
 
-### TURKISH CUISINE
+## TURKISH CUISINE
 
 Turkish Cuisine varies across the country. Each part of the region in Turkey has its own cuisine. Especially in the western parts of Turkey, where olive trees grow abundantly, olive oil is the major type of used for cooking, while region cuisine is rich in vegetables, herbs, and seafood. The cuisine of the Black Sea Region uses fish abundantly. The southeast is famous for its own gastronomy; the variety of kebabs, mezes, and dough-based desserts such as baklava, sobiyet, kadayif, and kunefe. 
 Turkish breakfast and coffee are also another famous flavours. Of course, not to forget about Turkish delight that is well known Turkish dessert all over the world.
@@ -29,23 +29,23 @@ Turkish breakfast and coffee are also another famous flavours. Of course, not to
 ![Imagedescription](https://github.com/bercin-y/Info_Turkey/raw/master/Turkish%20Cusine.PNG)
 
 
-#### TOP-RATED TOURIST ATTRACTIONS IN TURKEY
-##### 1. ISTANBUL
+### TOP-RATED TOURIST ATTRACTIONS IN TURKEY
+#### 1. ISTANBUL
 I would recommend you to do sightseeing to appreciate the historical and geographical treasures of Istanbul. There are natural wonders, mosques, churches, palaces, cemeteries, bazaars (spice and covered), steam baths (hamam) and coffeehouses (kahve ocagi) to visit. These will be memorable experiences.
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm)
 
 [Link to Github!](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/Istanbul.PNG)
 
-##### 2. KUSADASI
+#### 2. KUSADASI
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/kusadasi-tr-iz-epk.htm)
 
-##### 3. KAPADOKYA
+#### 3. KAPADOKYA
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/cappadocia-tr-nv-c.htm)
 
-##### 4. PAMUKKALE
+#### 4. PAMUKKALE
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/pamukkale-hierapolis-tr-de-pa.htm)
 
