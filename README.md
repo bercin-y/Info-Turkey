@@ -13,6 +13,9 @@ Other examples of the important historical places are *Gobekli Tepe* and *Catalh
 
 ![Imagedecription](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/The%20History%20of%20Anatolia.PNG)
 
+![Imagedescription](/https://github.com/bercin-y/Info_Turkey/raw/master/The%20History%20of%20Anatolia.PNG)
+Format: ![Alt Text](url)
+
 
 **TOURISTIC PLACEMENTS IN TURKEY**
 
@@ -27,3 +30,7 @@ Turkish Cuisine varies across the country. Each part of the region in Turkey has
 Turkish breakfast and coffee are also another famous flavours. Of course, not to forget about Turkish delight that is well known Turkish dessert all over the world.
 
 ![Imagedescription](https://github.com/bercin-y/Info_Turkey/raw/master/Turkish%20Cusine.PNG)
+
+
+### TOP-RATED TOURIST ATTRACTIONS IN TURKEY
+https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm
