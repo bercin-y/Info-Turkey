@@ -33,9 +33,9 @@ Turkish breakfast and coffee are also another famous flavours. Of course, not to
 #### 1. ISTANBUL
 I would recommend you to do sightseeing to appreciate the historical and geographical treasures of Istanbul. There are natural wonders, mosques, churches, palaces, cemeteries, bazaars (spice and covered), steam baths (hamam) and coffeehouses (kahve ocagi) to visit. These will be memorable experiences.
 
-[Link to Google!](https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm)
+[Tourist Attractions](https://www.planetware.com/tourist-attractions-/istanbul-tr-is-i.htm)
 
-[Link to Github!](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/Istanbul.PNG)
+[Image of Aya Sofia!](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/Istanbul.PNG)
 
 #### 2. KUSADASI
 
@@ -48,4 +48,5 @@ I would recommend you to do sightseeing to appreciate the historical and geograp
 #### 4. PAMUKKALE
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/pamukkale-hierapolis-tr-de-pa.htm)
+
 
