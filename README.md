@@ -48,5 +48,5 @@ I would recommend you to do sightseeing to appreciate the historical and geograp
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/pamukkale-hierapolis-tr-de-pa.htm)
 
-[link](https://bercin-y.github.io/Info_Turkey/)
+[Main Page](https://bercin-y.github.io/Info_Turkey/readme.md)
 
