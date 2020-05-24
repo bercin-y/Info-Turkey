@@ -41,7 +41,7 @@ I would recommend you to do sightseeing to appreciate the historical and geograp
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/kusadasi-tr-iz-epk.htm)
 
-#####3. KAPADOKYA
+##### 3. KAPADOKYA
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/cappadocia-tr-nv-c.htm)
 
