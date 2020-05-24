@@ -13,7 +13,6 @@ Other examples of the important historical places are *Gobekli Tepe* and *Catalh
 
 ![Imagedecription](https://raw.githubusercontent.com/bercin-y/Info_Turkey/master/The%20History%20of%20Anatolia.PNG)
 
-
 ## TOURISTIC PLACEMENTS IN TURKEY
 
 Amazing natural beauties, breathtaking beaches, historical and archaeological sites are the main reason people go to Turkey. Moreover, steadily improving hotel and tourism infrastructure, and a tradition of hospitality and competitive prices are the other reason to choose Turkey for their vacation destination. Therefore, it is not surprising that Turkey is the sixth most-visited tourist destination in the World. 
@@ -49,4 +48,5 @@ I would recommend you to do sightseeing to appreciate the historical and geograp
 
 [Link to Google!](https://www.planetware.com/tourist-attractions-/pamukkale-hierapolis-tr-de-pa.htm)
 
+[link](https://bercin-y.github.io/Info_Turkey/)
 
